@@ -1,0 +1,11 @@
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\bin\Debug\TelefonBuch.exe.config
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\bin\Debug\TelefonBuch.exe
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\bin\Debug\TelefonBuch.pdb
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\obj\Debug\TelefonBuch.Form1.resources
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\obj\Debug\TelefonBuch.Properties.Resources.resources
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\obj\Debug\TelefonBuch.csproj.GenerateResource.cache
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\obj\Debug\TelefonBuch.csproj.CoreCompileInputs.cache
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\obj\Debug\TelefonBuch.exe
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\obj\Debug\TelefonBuch.pdb
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\obj\Debug\TelefonBuch.frmAddOrEdit.resources
+C:\Users\Mali\Desktop\source\TelefonBuch\TelefonBuch\obj\Debug\TelefonBuch.csprojAssemblyReference.cache
